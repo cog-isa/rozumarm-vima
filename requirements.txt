@@ -1,0 +1,5 @@
+git+https://github.com/vimalabs/VIMA
+
+# for rozumarm-vima-cv
+opencv-python==4.6.0.66
+opencv-contrib-python==4.6.0.66

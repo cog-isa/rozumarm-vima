@@ -1,0 +1,12 @@
+*.egg-info
+*.pyc
+*.mp4
+*.jpg
+*.png
+
+*.ckpt
+*.pt
+
+
+pg.ipynb
+rozumarm-dataset
